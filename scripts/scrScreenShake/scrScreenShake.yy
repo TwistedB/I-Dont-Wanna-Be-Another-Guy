@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scrScreenShake",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrScreenShake",
+  "parent":{
+    "name":"Custom",
+    "path":"folders/Scripts/Custom.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+blockHit = true;
+vspeed = -vspeed;

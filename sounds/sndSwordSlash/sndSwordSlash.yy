@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndSwordSlash",
+  "audioGroupId":{
+    "name":"audiogroup_SFX",
+    "path":"audiogroups/audiogroup_SFX",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.444082,
+  "name":"sndSwordSlash",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Sounds/SFX/Weapon.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndSwordSlash.mp3",
+  "type":0,
+  "volume":0.65,
+}

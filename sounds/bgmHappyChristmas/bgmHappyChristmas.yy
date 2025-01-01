@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgmHappyChristmas",
+  "audioGroupId":{
+    "name":"audiogroup_BGM",
+    "path":"audiogroups/audiogroup_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":34.220436,
+  "name":"bgmHappyChristmas",
+  "parent":{
+    "name":"Custom",
+    "path":"folders/Sounds/BGM/Custom.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgmHappyChristmas.mp3",
+  "type":0,
+  "volume":1.0,
+}

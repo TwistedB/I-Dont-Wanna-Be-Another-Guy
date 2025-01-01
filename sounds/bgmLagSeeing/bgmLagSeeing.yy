@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgmLagSeeing",
+  "audioGroupId":{
+    "name":"audiogroup_BGM",
+    "path":"audiogroups/audiogroup_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":162.4555,
+  "name":"bgmLagSeeing",
+  "parent":{
+    "name":"Custom",
+    "path":"folders/Sounds/BGM/Custom.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgmLagSeeing.mp3",
+  "type":0,
+  "volume":0.9,
+}

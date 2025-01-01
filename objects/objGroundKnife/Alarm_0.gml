@@ -1,0 +1,1 @@
+canDie = true;

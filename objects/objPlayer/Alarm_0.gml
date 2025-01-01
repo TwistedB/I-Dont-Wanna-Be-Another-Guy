@@ -1,0 +1,2 @@
+isSliding = false;
+slideCounter = slideMaxRegen;
