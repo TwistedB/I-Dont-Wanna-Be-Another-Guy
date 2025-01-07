@@ -8,6 +8,7 @@ if(is_active_trigger("BossStart") && fightStart = false)
 {
 	play_music(bgmAGS, 1);
 	fightStart = true;
+	objInventory.showBG = true;
 	alarm[0] = 90;
 }
 

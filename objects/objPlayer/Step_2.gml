@@ -47,7 +47,7 @@ if (!global.forms.lunarkid) {
 var killer = instance_place_check(x, y, objPlayerKiller, tangible_collision);
 
 if (killer != null && killer.visible) {
-	if(invTime < 0 && focusMode < 0)
+	if(invTime < 0 && focusMode < 0 && killer.canHit = true)
 	{
 		kill_player();
 	}else if(invTime > 0 && focusMode < maxFoxus)

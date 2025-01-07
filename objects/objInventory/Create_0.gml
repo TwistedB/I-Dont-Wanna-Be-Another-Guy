@@ -7,3 +7,7 @@ maxCounter = 10;
 counter = maxCounter;
 
 selected = global.selectedItem;
+
+showBG = false;
+
+alarm[0] = 20;

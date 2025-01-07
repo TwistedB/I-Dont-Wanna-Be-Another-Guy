@@ -19,15 +19,15 @@ audio_play_sound(sndSwordSlash, 0, 0);
 
 if(objPlayer.hspd != 0)
 {
-	spd = 2;
+	spd = 3.2;
 }else
 {
-	spd = 0.8;
+	spd = 1.4;
 }
 
 if(objPlayer.isSliding)
 {
-	spd = 2;
+	spd = 3.2;
 }
 
 var time = (global.slowshot) ? 800 : 40;

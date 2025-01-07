@@ -3,10 +3,11 @@
 
 // Inherit the parent event
 event_inherited();
-
 maxHP = hp;
 
 fightStart = false;
+
+objInventory.showBG = false;
 
 mask_index = sprEmpty;
 

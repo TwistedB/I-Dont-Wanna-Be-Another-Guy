@@ -5,3 +5,4 @@ if(instance_number(objInventory) > 1)
 
 gearRotate = 45 * global.selectedItem;
 nextRotate = gearRotate;
+

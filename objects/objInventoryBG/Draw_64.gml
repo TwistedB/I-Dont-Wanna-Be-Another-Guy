@@ -1,0 +1,1 @@
+draw_sprite_ext(sprInventoryBG, 0, 60, 60, bgScale, bgScale, objInventory.gearRotate, image_blend, image_alpha);
