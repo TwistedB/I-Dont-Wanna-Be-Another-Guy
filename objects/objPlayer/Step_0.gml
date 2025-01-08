@@ -576,7 +576,7 @@ if (!global.forms.lunarkid) {
 			hspd = 6 * xscale;
 			if(focusMode < -90 && invTime < -20)
 			{
-				invTime = 6;
+				invTime = 9;
 			}
 			player_sprite("GSlide");
 		}else

@@ -15,8 +15,8 @@
     "path":"folders/Objects/Custom/Misc.yy",
   },
   "parentObjectId":{
-    "name":"objBlock",
-    "path":"objects/objBlock/objBlock.yy",
+    "name":"objMovingPlatform",
+    "path":"objects/objMovingPlatform/objMovingPlatform.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

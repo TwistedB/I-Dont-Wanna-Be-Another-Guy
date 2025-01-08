@@ -10,8 +10,8 @@
   "name":"objCherry",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fruits",
-    "path":"folders/Objects/Killers/Fruits.yy",
+    "name":"Fruits and Bullets",
+    "path":"folders/Objects/Killers/Fruits and Bullets.yy",
   },
   "parentObjectId":{
     "name":"objPlayerKiller",

@@ -26,7 +26,7 @@ if (!global.forms.lunarkid) {
 
 	if (platform != null && platform.visible) {
 		if (platform.snap > 0 && ((global.grav == 1 && y - vspd / 2 <= platform.bbox_top) || (global.grav == -1 && y - vspd / 2 >= platform.bbox_bottom))) {
-			y = (global.grav == 1) ? platform.bbox_top - 9 : platform.bbox_bottom + 8;
+			y = (global.grav == 1) ? platform.bbox_top - 4.5 : platform.bbox_bottom + 4;
 			vspd = platform.vspeed;
 			
 			if (platform.object_index != objDisappearPlatform) {

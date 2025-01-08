@@ -1,0 +1,1 @@
+curveSpeed = 3;

@@ -1,4 +1,4 @@
-global.game_name = "I Wanna Be Another Guy"; //The name displayed on the window
+global.game_name = "I Dont Wanna Be Another Guy"; //The name displayed on the window
 global.difficulties = ["New Game", "Load Game"]; //Every difficulty name your game will have, "Load" should always be the last one
 global.total_saves = 3; //The number of total save files to use
 global.start_room = rStage1; //The room to start in
