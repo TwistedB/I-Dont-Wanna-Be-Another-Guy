@@ -13,11 +13,12 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objShotgunBlast","path":"objects/objShotgunBlast/objShotgunBlast.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":1,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":3,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objCherry","path":"objects/objCherry/objCherry.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"objAxelV1",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objEnemyBase","path":"objects/objEnemyBase/objEnemyBase.yy",},"propertyId":{"name":"hp","path":"objects/objEnemyBase/objEnemyBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"100",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objEnemyBase","path":"objects/objEnemyBase/objEnemyBase.yy",},"propertyId":{"name":"hp","path":"objects/objEnemyBase/objEnemyBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"120",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"objEnemyBase","path":"objects/objEnemyBase/objEnemyBase.yy",},"propertyId":{"name":"def","path":"objects/objEnemyBase/objEnemyBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"2",},
   ],
   "parent":{

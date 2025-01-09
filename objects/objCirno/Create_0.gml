@@ -14,6 +14,12 @@ fightStart = false;
 
 canInstaKill = false;
 
+if(global.items[$ "secrets"][0] = true)
+{
+	is_active_trigger("BossStart");
+	instance_destroy();
+}
+
 
 a = 0
 b = 0

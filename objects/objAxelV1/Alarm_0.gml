@@ -124,7 +124,7 @@ if instance_exists(objPlayer)
 		if(a = 2)
 		{	
 			canHurt = true;
-			x = objPlayer.x+choose(32, -32);
+			x = objPlayer.x+choose(46, -46);
 			
 			if(objPlayer.x > x)
 			{

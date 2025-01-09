@@ -75,16 +75,18 @@ if instance_exists(objPlayer)
 			objPlayer.dragSpeed -= 0.05;
 		}
 		
-		if(a < 50)
+		if(a < 46)
 		{
-			var bullet = instance_create_depth(x, orbY+startY-130, -2, objCherry);
+			var bullet = instance_create_depth(x, orbY+startY-130, -2, objCurvingCherry);
+			bullet.curveSpeed = random_range(1, -1);
+			bullet.overTimeSpeed = choose(-0.05, -0.07);
 			bullet.sprite_index = sprGlipsoBall;
 			bullet.direction = random_range(0, 360);
 			bullet.speed = random_range(2, 4);
 			b = random_range(0.7, 1.5);
 			bullet.image_xscale = b;
 			bullet.image_yscale = b;
-			alarm[0] = 4;
+			alarm[0] = 6;
 		}else
 		{
 			attack = 0;

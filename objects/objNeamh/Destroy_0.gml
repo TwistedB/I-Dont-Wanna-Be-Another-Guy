@@ -5,4 +5,10 @@ if(instance_exists(objPlayer))
 
 if(destroySound = true){
 	instance_create_depth(x, orbY+startY-130, -1, objNeamhFinalAttack);
+	
+	with(objCurvingCherry)
+	{
+		instance_destroy();
+	}
 }
+

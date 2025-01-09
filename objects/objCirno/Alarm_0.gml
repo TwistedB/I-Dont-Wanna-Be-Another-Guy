@@ -23,4 +23,4 @@ if(attack = 1)
 	cherry.direction = random(360);
 }
 
-alarm[0] = 5;
+alarm[0] = 4;

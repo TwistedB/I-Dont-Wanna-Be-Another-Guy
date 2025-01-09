@@ -1,1 +1,2 @@
 direction+=curveSpeed
+speed += overTimeSpeed;

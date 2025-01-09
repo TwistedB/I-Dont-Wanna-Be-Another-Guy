@@ -89,8 +89,8 @@ if instance_exists(objPlayer)
 				y = groundY;
 				b = random_range(-3, -4);
 				c += 1;
-				var GSL = instance_create_depth(x, groundY, depth, objBallGibGroundSlam);
-				var GSR = instance_create_depth(x, groundY, depth, objBallGibGroundSlam);
+				var GSL = instance_create_layer(x, groundY, layer, objBallGibGroundSlam);
+				var GSR = instance_create_layer(x, groundY, layer, objBallGibGroundSlam);
 				d = random_range(3, 4.5);
 				e = random_range(0.7, 1.4);
 				GSR.image_yscale = e;

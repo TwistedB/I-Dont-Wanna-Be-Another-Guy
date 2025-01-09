@@ -1,4 +1,4 @@
-if(global.overlay = true)
+if(global.overlay = true && global.debug_enable = true)
 {
 	visible = true;
 }else

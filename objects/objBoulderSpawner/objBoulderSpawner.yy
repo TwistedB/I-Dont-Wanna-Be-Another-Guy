@@ -9,8 +9,8 @@
   "name":"objBoulderSpawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Custom/Enemies.yy",
+    "name":"Misc",
+    "path":"folders/Objects/Custom/Enemies/Misc.yy",
   },
   "parentObjectId":null,
   "persistent":false,
