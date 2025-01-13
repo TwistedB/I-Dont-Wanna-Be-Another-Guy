@@ -21,5 +21,11 @@ if(fightStart = true)
 	}
 }
 
+if(sprite_index = sprAxelV1GetUp && image_index > 2)
+{
+		sprite_index = sprAxelV1Idle;
+		audio_play_sound(sndRoboStomp, 0, 0);
+		sc_Shake(10, 30);
+}
 
 

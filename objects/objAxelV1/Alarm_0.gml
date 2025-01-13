@@ -10,9 +10,8 @@ if instance_exists(objPlayer)
 		{
 			alarm[3] = 5;
 			instance_create_depth(x, y, depth-2, objAxelShield)
-			audio_play_sound(sndRoboStomp, 0, 0);
-			sc_Shake(10, 30);
-			sprite_index = sprAxelV1Idle;
+			image_index = 0;
+			sprite_index = sprAxelV1GetUp;
 			instance_create_depth(x, startY, depth, objGroundKnifeSpawner)
 			instance_create_depth(x, y, depth+1, objAxelWings);
 		}
@@ -93,6 +92,7 @@ if instance_exists(objPlayer)
 		a += 1;
 		if(a = 1)
 		{
+			instance_create_depth(x, y-72, depth-2, objOrbCharge)
 			audio_play_sound(sndOnlineChatBox, 0, 0);
 			alarm[0] = 50;
 			exit;
@@ -104,6 +104,11 @@ if instance_exists(objPlayer)
 			alarm[0] = 25;
 		}else
 		{
+			if(instance_exists(objOrbCharge))
+			{
+				instance_destroy(objOrbCharge);
+			}
+			
 			attack = 0;
 			alarm[1] = 60;
 			exit;
@@ -177,4 +182,9 @@ if instance_exists(objPlayer)
 {
 	sprite_index = sprAxelV1Idle;
 	hspeed = 0;
+	
+	if(instance_exists(objOrbCharge))
+	{
+		instance_destroy(objOrbCharge);
+	}
 }

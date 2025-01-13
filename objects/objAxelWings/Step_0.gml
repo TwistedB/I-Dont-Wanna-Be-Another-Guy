@@ -4,11 +4,32 @@ if(instance_exists(objAxelV1))
 	{
 		x = objAxelV1.x;
 		y = objAxelV1.y+32;	
-	}else
+	}else if(objAxelV1.sprite_index = sprAxelV1GetUp)
+	{
+		if(objAxelV1.image_index = 0)
+		{
+			x = objAxelV1.x;
+			y = objAxelV1.y+32;		
+		}
+		
+		if(objAxelV1.image_index = 1 || objAxelV1.image_index = 2)
+		{
+			x = objAxelV1.x;
+			y = objAxelV1.y+16;		
+		}
+
+		if(objAxelV1.image_index > 2)
+		{
+			x = objAxelV1.x;
+			y = objAxelV1.y;		
+		}
+	}
+	else
 	{
 		x = objAxelV1.x;
 		y = objAxelV1.y;
 	}
+	
 	image_xscale = objAxelV1.image_xscale;
 	image_alpha = random_range(0.1, 0.9);
 	

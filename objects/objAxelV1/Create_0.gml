@@ -13,6 +13,11 @@ mask_index = sprEmpty;
 
 image_alpha = 0;
 
+if(global.items[$ "bosses"][1] = true)
+{
+	instance_destroy();
+}
+
 shadowShown = false;
 
 currentMusic = bgmTutorial;

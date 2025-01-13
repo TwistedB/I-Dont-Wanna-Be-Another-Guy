@@ -17,6 +17,6 @@ if(instance_exists(objAxelV1))
 		alarm[0] = random_range(200, 600);
 	}else
 	{
-		alarm[0] = random_range(50, 100);
+		alarm[0] = random_range(100, 150);
 	}
 }

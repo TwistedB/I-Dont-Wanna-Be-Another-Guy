@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"NPCS",
-    "path":"folders/Objects/Custom/NPCS.yy",
+    "path":"folders/Objects/Custom/Dialouge/NPCS.yy",
   },
   "parentObjectId":null,
   "persistent":false,

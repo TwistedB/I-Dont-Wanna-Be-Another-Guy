@@ -1004,8 +1004,8 @@
   ],
   "name":"rStage2",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Stage 1",
+    "path":"folders/Rooms/Stage 1.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

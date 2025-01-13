@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgmTacturn",
+  "audioGroupId":{
+    "name":"audiogroup_BGM",
+    "path":"audiogroups/audiogroup_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":234.648,
+  "name":"bgmTacturn",
+  "parent":{
+    "name":"Custom",
+    "path":"folders/Sounds/BGM/Custom.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgmTacturn.mp3",
+  "type":0,
+  "volume":1.0,
+}
