@@ -39,4 +39,6 @@ global.inventoryItems = ["Pistol", "Shotgun", "Sword", "Bomb"]
 global.selectedItem = 0;
 global.event = 0;
 
+global.foughtLexaBefore = false;
+
 randomize(); //Sets a random seed

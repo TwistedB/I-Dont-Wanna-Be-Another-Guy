@@ -38,6 +38,14 @@ if (keyboard_check_pressed(ord("4")) && counter < 0 && instance_exists(objPlayer
 	nextRotate += 45;
 }
 
+function randomSwitch()
+{
+	counter = maxCounter;
+	selected = choose(0, 1, 2, 3);
+	audio_play_sound(sndWeaponSwitch, 0, 0);
+	nextRotate += 45;
+}
+
 
 if(selected >= array_length(global.inventoryItems))
 {

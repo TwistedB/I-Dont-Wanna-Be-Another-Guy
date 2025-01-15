@@ -19,7 +19,7 @@ if(currentMessage > 0)
 draw_set_color(c_white);
 draw_set_halign(fa_left)
 draw_set_font(fntPrismed);
-draw_text_ext(30, 264, messageDraw, -1, 300);
+draw_text_ext(30, 264, messageDraw, -1, 600);
 
 draw_set_font(fntOptions);
 draw_set_halign(fa_left)
