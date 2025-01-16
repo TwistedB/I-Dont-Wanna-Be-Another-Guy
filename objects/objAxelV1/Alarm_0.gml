@@ -58,7 +58,7 @@ if instance_exists(objPlayer)
 			}else{
 				image_xscale = 1;
 			}
-		
+			instance_create_depth(x, y-16, depth, objAxelBlastIndi)
 			sprite_index = sprAxelV1Blast;
 			audio_play_sound(sndSwordDraw, 0, 0);
 			alarm[0] = 50;

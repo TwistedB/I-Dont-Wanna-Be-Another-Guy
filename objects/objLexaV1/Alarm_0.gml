@@ -16,7 +16,7 @@ if instance_exists(objPlayer)
 				phase2 += 1;
 			}else
 			{
-				Say(["You may be strong but this is were your journey ends.", "Goodbye."], [null, null], [c_aqua, c_aqua]);
+				Say(["You might fight well, but this is where your journey ends.", "Theres no going any further. Farewell."], [null, null], [c_aqua, c_aqua]);
 				attack = 100;
 				stop_music();
 				alarm[0] = 5;
@@ -26,7 +26,7 @@ if instance_exists(objPlayer)
 		
 		if(phase2 != 1 && phase2 != 2)
 		{
-			tpw = irandom_range(1, 3);
+			tpw = choose(1, 3);
 		
 			if(tpw = 1)
 			{

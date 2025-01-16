@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"bgmEnding",
+  "audioGroupId":{
+    "name":"audiogroup_BGM",
+    "path":"audiogroups/audiogroup_BGM",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":82.80817,
+  "name":"bgmEnding",
+  "parent":{
+    "name":"Custom",
+    "path":"folders/Sounds/BGM/Custom.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"bgmEnding.mp3",
+  "type":0,
+  "volume":1.0,
+}

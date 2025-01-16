@@ -3,6 +3,7 @@
   "%Name":"objDialogueTrigger",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"objDialogueTrigger",
@@ -29,6 +30,7 @@
     {"$GMObjectProperty":"v1","%Name":"dialouge","filters":[],"listItems":[],"multiselect":false,"name":"dialouge","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[\"hi hi\", \"my name jeff\", \"bro fuck off\"]","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"portrait","filters":[],"listItems":[],"multiselect":false,"name":"portrait","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[sprPortraitPlaceholder, null, sprPortraitPlaceholder]","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"dioColour","filters":[],"listItems":[],"multiselect":false,"name":"dioColour","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"[c_aqua, c_white, c_aqua]","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"destroyIfAhead","filters":[],"listItems":[],"multiselect":false,"name":"destroyIfAhead","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
