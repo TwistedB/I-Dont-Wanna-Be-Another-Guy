@@ -24,7 +24,7 @@ reload = reloadTimes[weaponSelected];
 
 cantChangeSprite = 0;
 invTime = -20;
-maxFoxus = -90
+maxFoxus = -90;
 focusMode = maxFoxus;
 
 var lay_id = layer_get_id("Background");

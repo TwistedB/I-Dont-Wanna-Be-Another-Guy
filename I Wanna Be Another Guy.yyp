@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"I Wanna Be Another Guy",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -113,8 +113,8 @@
     {"$GMFolder":"","%Name":"AxelV1","folderPath":"folders/Sprites/Custom/Enemy/AxelV1.yy","name":"AxelV1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BallKats","folderPath":"folders/Sprites/Custom/Enemy/BallKats.yy","name":"BallKats","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Glipso","folderPath":"folders/Sprites/Custom/Enemy/Glipso.yy","name":"Glipso","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"LexaV1","folderPath":"folders/Sprites/Custom/Enemy/LexaV1.yy","name":"LexaV1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Lacretura","folderPath":"folders/Sprites/Custom/Enemy/Lacretura.yy","name":"Lacretura","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"LexaV1","folderPath":"folders/Sprites/Custom/Enemy/LexaV1.yy","name":"LexaV1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Neamh","folderPath":"folders/Sprites/Custom/Enemy/Neamh.yy","name":"Neamh","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Inventory","folderPath":"folders/Sprites/Custom/Inventory.yy","name":"Inventory","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Misc","folderPath":"folders/Sprites/Custom/Misc.yy","name":"Misc","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -183,11 +183,12 @@
     {"$GMFolder":"","%Name":"Tilesets","folderPath":"folders/Sprites/Tilesets.yy","name":"Tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tilesets","folderPath":"folders/Tilesets.yy","name":"Tilesets","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"I Wanna Be Another Guy",
   "resources":[

@@ -870,6 +870,7 @@ trailCounter -= 1;
 cantChangeSprite -= 1;
 invTime -= 1;
 focusMode -= 1;
+invTime -= 1;
 
 xsafe = xprevious + hspd;
 ysafe = yprevious + vspd;
