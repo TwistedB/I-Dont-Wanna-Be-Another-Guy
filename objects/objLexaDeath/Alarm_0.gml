@@ -2,5 +2,5 @@ if(instance_exists(objPlayer))
 {
 	dioNumber += 1;
 	currentTalking = true;
-	Say(["I meant it when I said your journey ends here.", "You wont make it past this point."], [null, null], [c_aqua, c_aqua]);
+	Say(["Although you fought harder than expected, theres was only one way this could ever end."], [null], [c_aqua]);
 }

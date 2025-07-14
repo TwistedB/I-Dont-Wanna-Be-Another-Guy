@@ -16,7 +16,7 @@ if instance_exists(objPlayer)
 				phase2 += 1;
 			}else
 			{
-				Say(["You might fight well, but this is where your journey ends.", "Theres no going any further. Farewell."], [null, null], [c_aqua, c_aqua]);
+				Say(["You may duel well, but this is where your journey ends.", "Please let me make this quick Harbinger. Theres no need to suffer any longer.",], [null, null], [c_aqua, c_aqua]);
 				attack = 100;
 				stop_music();
 				alarm[0] = 5;
