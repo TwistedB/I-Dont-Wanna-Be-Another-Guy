@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprLexaSaw",
   "bboxMode":2,
   "bbox_bottom":58,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"01432e77-8b0e-4cec-95d5-8f4a8bdeee7e","name":"01432e77-8b0e-4cec-95d5-8f4a8bdeee7e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"01432e77-8b0e-4cec-95d5-8f4a8bdeee7e","name":"01432e77-8b0e-4cec-95d5-8f4a8bdeee7e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprTriggerController",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f3305d61-69eb-4bb9-b7e4-faaec2ce95b5","name":"f3305d61-69eb-4bb9-b7e4-faaec2ce95b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f3305d61-69eb-4bb9-b7e4-faaec2ce95b5","name":"f3305d61-69eb-4bb9-b7e4-faaec2ce95b5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

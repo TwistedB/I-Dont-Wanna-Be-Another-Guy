@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprPushBlock",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"93d227d3-cf5c-4efd-bdac-013d6ddb21b8","name":"93d227d3-cf5c-4efd-bdac-013d6ddb21b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"93d227d3-cf5c-4efd-bdac-013d6ddb21b8","name":"93d227d3-cf5c-4efd-bdac-013d6ddb21b8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

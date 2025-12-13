@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprPlayerSlide",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"c1502379-70f8-4c16-b9f9-66f206db0072","name":"c1502379-70f8-4c16-b9f9-66f206db0072","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"e9ea1d84-33e0-4f8c-b0c1-c07174107e2a","name":"e9ea1d84-33e0-4f8c-b0c1-c07174107e2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c1502379-70f8-4c16-b9f9-66f206db0072","name":"c1502379-70f8-4c16-b9f9-66f206db0072","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e9ea1d84-33e0-4f8c-b0c1-c07174107e2a","name":"e9ea1d84-33e0-4f8c-b0c1-c07174107e2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

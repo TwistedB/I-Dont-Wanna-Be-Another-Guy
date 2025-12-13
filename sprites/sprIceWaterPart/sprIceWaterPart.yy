@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprIceWaterPart",
   "bboxMode":0,
   "bbox_bottom":6,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"004c27d8-ef36-40c6-b7ff-bb3286e6b95b","name":"004c27d8-ef36-40c6-b7ff-bb3286e6b95b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"004c27d8-ef36-40c6-b7ff-bb3286e6b95b","name":"004c27d8-ef36-40c6-b7ff-bb3286e6b95b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

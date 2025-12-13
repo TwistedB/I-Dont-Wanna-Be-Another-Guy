@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprTlsGround",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ee7902ef-f2b2-45b4-9ebc-599ab89e13f0","name":"ee7902ef-f2b2-45b4-9ebc-599ab89e13f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ee7902ef-f2b2-45b4-9ebc-599ab89e13f0","name":"ee7902ef-f2b2-45b4-9ebc-599ab89e13f0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

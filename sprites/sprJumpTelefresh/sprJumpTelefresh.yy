@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprJumpTelefresh",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"bb96ee38-8f5d-4f43-9df6-9da4fb84b2de","name":"bb96ee38-8f5d-4f43-9df6-9da4fb84b2de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"bb96ee38-8f5d-4f43-9df6-9da4fb84b2de","name":"bb96ee38-8f5d-4f43-9df6-9da4fb84b2de","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

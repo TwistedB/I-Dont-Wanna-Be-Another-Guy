@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"bgmBallGib",
   "audioGroupId":{
     "name":"audiogroup_BGM",
     "path":"audiogroups/audiogroup_BGM",
   },
   "bitDepth":1,
-  "bitRate":256,
+  "channelFormat":1,
   "compression":2,
+  "compressionQuality":8,
   "conversionMode":0,
   "duration":64.8098,
+  "exportDir":"",
   "name":"bgmBallGib",
   "parent":{
     "name":"Custom",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"bgmBallGib.mp3",
-  "type":1,
   "volume":1.0,
 }

@@ -28,8 +28,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"showAt","filters":[],"listItems":[],"multiselect":false,"name":"showAt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"BossStart","varType":2,},
-    {"$GMObjectProperty":"v1","%Name":"destroyAt","filters":[],"listItems":[],"multiselect":false,"name":"destroyAt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"BossDefeat","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"showAt","filters":[],"listItems":[],"multiselect":false,"name":"showAt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"BossStart","varType":2,},
+    {"$GMObjectProperty":"v2","%Name":"destroyAt","filters":[],"listItems":[],"multiselect":false,"name":"destroyAt","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"BossDefeat","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

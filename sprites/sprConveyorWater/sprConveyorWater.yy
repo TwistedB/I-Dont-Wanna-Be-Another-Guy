@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprConveyorWater",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"325b69b8-aa0a-4ac5-80cc-e75b0004bcd6","name":"325b69b8-aa0a-4ac5-80cc-e75b0004bcd6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"325b69b8-aa0a-4ac5-80cc-e75b0004bcd6","name":"325b69b8-aa0a-4ac5-80cc-e75b0004bcd6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprAxelGroundKnife",
   "bboxMode":0,
   "bbox_bottom":18,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"cbbe7a72-3381-4a05-ab2a-0d056b3dd8be","name":"cbbe7a72-3381-4a05-ab2a-0d056b3dd8be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"cbbe7a72-3381-4a05-ab2a-0d056b3dd8be","name":"cbbe7a72-3381-4a05-ab2a-0d056b3dd8be","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBallGibRun",
   "bboxMode":0,
   "bbox_bottom":85,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3d4ebd04-6ff9-4fd0-8e21-7bd25b2d9d61","name":"3d4ebd04-6ff9-4fd0-8e21-7bd25b2d9d61","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2fa26ffe-f720-426a-9817-8e47409d0311","name":"2fa26ffe-f720-426a-9817-8e47409d0311","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"3d4ebd04-6ff9-4fd0-8e21-7bd25b2d9d61","name":"3d4ebd04-6ff9-4fd0-8e21-7bd25b2d9d61","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2fa26ffe-f720-426a-9817-8e47409d0311","name":"2fa26ffe-f720-426a-9817-8e47409d0311","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

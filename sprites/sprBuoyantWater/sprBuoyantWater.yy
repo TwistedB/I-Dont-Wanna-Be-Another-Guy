@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBuoyantWater",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1b1f21c1-05cf-4ac9-bd31-1e8bf0750683","name":"1b1f21c1-05cf-4ac9-bd31-1e8bf0750683","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1b1f21c1-05cf-4ac9-bd31-1e8bf0750683","name":"1b1f21c1-05cf-4ac9-bd31-1e8bf0750683","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprMovingSnapform",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"2fe29d77-06db-4b0a-ad07-2ee8c7a8bc9a","name":"2fe29d77-06db-4b0a-ad07-2ee8c7a8bc9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"2fe29d77-06db-4b0a-ad07-2ee8c7a8bc9a","name":"2fe29d77-06db-4b0a-ad07-2ee8c7a8bc9a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

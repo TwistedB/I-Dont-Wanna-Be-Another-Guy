@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprChristmasBG",
   "bboxMode":0,
   "bbox_bottom":905,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e9c6c38a-f252-45e5-90ed-da71da36e802","name":"e9c6c38a-f252-45e5-90ed-da71da36e802","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e9c6c38a-f252-45e5-90ed-da71da36e802","name":"e9c6c38a-f252-45e5-90ed-da71da36e802","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

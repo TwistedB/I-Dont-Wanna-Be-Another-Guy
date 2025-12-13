@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprInventoryGear",
   "bboxMode":0,
   "bbox_bottom":34,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0ef5dde5-3e73-4991-b4e1-7f4ea93afb8b","name":"0ef5dde5-3e73-4991-b4e1-7f4ea93afb8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0ef5dde5-3e73-4991-b4e1-7f4ea93afb8b","name":"0ef5dde5-3e73-4991-b4e1-7f4ea93afb8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

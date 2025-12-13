@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBubbleWater",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"de053856-9241-49a6-9ae2-7f2b61971ce1","name":"de053856-9241-49a6-9ae2-7f2b61971ce1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0a88af4e-6179-4cc0-be81-2fa351ec8599","name":"0a88af4e-6179-4cc0-be81-2fa351ec8599","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"de053856-9241-49a6-9ae2-7f2b61971ce1","name":"de053856-9241-49a6-9ae2-7f2b61971ce1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0a88af4e-6179-4cc0-be81-2fa351ec8599","name":"0a88af4e-6179-4cc0-be81-2fa351ec8599","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

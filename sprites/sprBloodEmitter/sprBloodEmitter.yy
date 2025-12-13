@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBloodEmitter",
   "bboxMode":0,
   "bbox_bottom":15,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"62408c6b-fb1b-4ff7-bcdd-0898d71fd7ad","name":"62408c6b-fb1b-4ff7-bcdd-0898d71fd7ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"62408c6b-fb1b-4ff7-bcdd-0898d71fd7ad","name":"62408c6b-fb1b-4ff7-bcdd-0898d71fd7ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

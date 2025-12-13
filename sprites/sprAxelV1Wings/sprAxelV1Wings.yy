@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprAxelV1Wings",
   "bboxMode":0,
   "bbox_bottom":96,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1269e83a-b420-40f7-9dc2-72c7d50a6046","name":"1269e83a-b420-40f7-9dc2-72c7d50a6046","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"760e2429-2f0b-493e-b721-392f6685d807","name":"760e2429-2f0b-493e-b721-392f6685d807","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1269e83a-b420-40f7-9dc2-72c7d50a6046","name":"1269e83a-b420-40f7-9dc2-72c7d50a6046","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"760e2429-2f0b-493e-b721-392f6685d807","name":"760e2429-2f0b-493e-b721-392f6685d807","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

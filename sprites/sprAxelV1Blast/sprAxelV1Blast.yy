@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprAxelV1Blast",
   "bboxMode":0,
   "bbox_bottom":160,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"66ab1189-2c18-4369-814c-9ab65400d2c4","name":"66ab1189-2c18-4369-814c-9ab65400d2c4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"73964dde-9f81-4eb8-8af4-3ff4a46e13f6","name":"73964dde-9f81-4eb8-8af4-3ff4a46e13f6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"66ab1189-2c18-4369-814c-9ab65400d2c4","name":"66ab1189-2c18-4369-814c-9ab65400d2c4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"73964dde-9f81-4eb8-8af4-3ff4a46e13f6","name":"73964dde-9f81-4eb8-8af4-3ff4a46e13f6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

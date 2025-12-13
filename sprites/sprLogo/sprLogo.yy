@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprLogo",
   "bboxMode":0,
   "bbox_bottom":79,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"779fcb73-f0cb-4abb-bcc1-9b2b7a69fbdc","name":"779fcb73-f0cb-4abb-bcc1-9b2b7a69fbdc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"779fcb73-f0cb-4abb-bcc1-9b2b7a69fbdc","name":"779fcb73-f0cb-4abb-bcc1-9b2b7a69fbdc","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

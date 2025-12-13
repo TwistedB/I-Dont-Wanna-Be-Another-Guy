@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBoosterDownCherry",
   "bboxMode":0,
   "bbox_bottom":23,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"54ac4108-cf1c-4c4b-ac40-c3ba2f6edde5","name":"54ac4108-cf1c-4c4b-ac40-c3ba2f6edde5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"54ac4108-cf1c-4c4b-ac40-c3ba2f6edde5","name":"54ac4108-cf1c-4c4b-ac40-c3ba2f6edde5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

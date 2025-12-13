@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprLacreturaDead",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"876d73c5-8f58-4e5a-95cd-0876bb5614f1","name":"876d73c5-8f58-4e5a-95cd-0876bb5614f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"876d73c5-8f58-4e5a-95cd-0876bb5614f1","name":"876d73c5-8f58-4e5a-95cd-0876bb5614f1","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

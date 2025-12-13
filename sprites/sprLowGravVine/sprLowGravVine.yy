@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprLowGravVine",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"467b1c27-68c7-4e4a-9c71-3df2bb8d5991","name":"467b1c27-68c7-4e4a-9c71-3df2bb8d5991","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"467b1c27-68c7-4e4a-9c71-3df2bb8d5991","name":"467b1c27-68c7-4e4a-9c71-3df2bb8d5991","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

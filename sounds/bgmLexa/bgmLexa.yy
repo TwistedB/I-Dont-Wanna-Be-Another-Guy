@@ -1,15 +1,17 @@
 {
-  "$GMSound":"",
+  "$GMSound":"v2",
   "%Name":"bgmLexa",
   "audioGroupId":{
     "name":"audiogroup_BGM",
     "path":"audiogroups/audiogroup_BGM",
   },
   "bitDepth":1,
-  "bitRate":256,
+  "channelFormat":1,
   "compression":0,
+  "compressionQuality":8,
   "conversionMode":0,
   "duration":421.14612,
+  "exportDir":"",
   "name":"bgmLexa",
   "parent":{
     "name":"Custom",
@@ -20,6 +22,5 @@
   "resourceVersion":"2.0",
   "sampleRate":48000,
   "soundFile":"bgmLexa.mp3",
-  "type":1,
   "volume":1.0,
 }

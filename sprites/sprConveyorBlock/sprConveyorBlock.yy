@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprConveyorBlock",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a971ce91-2e1e-48f3-9766-7f0702f1ad0c","name":"a971ce91-2e1e-48f3-9766-7f0702f1ad0c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a971ce91-2e1e-48f3-9766-7f0702f1ad0c","name":"a971ce91-2e1e-48f3-9766-7f0702f1ad0c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

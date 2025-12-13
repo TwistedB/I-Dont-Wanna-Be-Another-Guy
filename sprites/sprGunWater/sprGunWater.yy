@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprGunWater",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d9866bb7-1a5a-42bf-8ad6-5713a73f3e24","name":"d9866bb7-1a5a-42bf-8ad6-5713a73f3e24","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d9866bb7-1a5a-42bf-8ad6-5713a73f3e24","name":"d9866bb7-1a5a-42bf-8ad6-5713a73f3e24","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

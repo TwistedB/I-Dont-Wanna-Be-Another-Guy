@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprBlockDynamic",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a463e2d7-1d77-414a-8d0b-d93f59d32c5d","name":"a463e2d7-1d77-414a-8d0b-d93f59d32c5d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a463e2d7-1d77-414a-8d0b-d93f59d32c5d","name":"a463e2d7-1d77-414a-8d0b-d93f59d32c5d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,

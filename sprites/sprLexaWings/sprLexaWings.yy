@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"sprLexaWings",
   "bboxMode":0,
   "bbox_bottom":84,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1cca2b7e-a508-4747-b0c1-c3cbdf2d8734","name":"1cca2b7e-a508-4747-b0c1-c3cbdf2d8734","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"00eb6f74-785c-48e0-8a6a-3bd70d5dcd72","name":"00eb6f74-785c-48e0-8a6a-3bd70d5dcd72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1cca2b7e-a508-4747-b0c1-c3cbdf2d8734","name":"1cca2b7e-a508-4747-b0c1-c3cbdf2d8734","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"00eb6f74-785c-48e0-8a6a-3bd70d5dcd72","name":"00eb6f74-785c-48e0-8a6a-3bd70d5dcd72","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
